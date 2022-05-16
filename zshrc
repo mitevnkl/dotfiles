@@ -69,3 +69,6 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+export PATH=/opt/homebrew/bin:/usr/local/bin:./bin:./node_modules/.bin:/Users/nikolamitev/.nvm/versions/node/v16.13.1/bin:/Users/nikolamitev/.rbenv/bin:/Users/nikolamitev/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/nikolamitev/.rbenv/plugins/ruby-build/bin:/Users/nikolamitev/.rbenv/bin:/usr/local/sbin
+export PATH=/opt/homebrew/bin:/usr/local/bin:./bin:./node_modules/.bin:/Users/nikolamitev/.nvm/versions/node/v16.13.1/bin:/Users/nikolamitev/.rbenv/bin:/Users/nikolamitev/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/nikolamitev/.rbenv/plugins/ruby-build/bin:/Users/nikolamitev/.rbenv/bin:/usr/local/sbin
+export PATH=/opt/homebrew/bin:/opt/homebrew/bin:/usr/local/bin:./bin:./node_modules/.bin:/Users/nikolamitev/.nvm/versions/node/v16.13.1/bin:/Users/nikolamitev/.rbenv/bin:/Users/nikolamitev/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/nikolamitev/.rbenv/plugins/ruby-build/bin:/Users/nikolamitev/.rbenv/bin:/usr/local/sbin
